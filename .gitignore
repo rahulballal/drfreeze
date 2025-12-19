@@ -145,9 +145,6 @@ bun.lockb
 dist/
 build/
 lib/
-*.js.map
-*.d.ts
-*.d.ts.map
 
 # Temporary files
 tmp/
@@ -165,7 +162,6 @@ Desktop.ini
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
-.idea
 *.suo
 *.ntvs*
 *.njsproj
